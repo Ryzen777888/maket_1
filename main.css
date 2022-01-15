@@ -1,0 +1,223 @@
+* {
+    box-sizing: border-box;
+}
+body {
+
+    font-size: 14px;
+}
+.header_1_1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+.soc{
+    display: flex;
+}
+.header_1_2_list{
+    font-size: 16px;
+    margin-left: 60px;
+}
+.visual_impared_1{
+
+}
+.header_1_2_list_button_saloni{
+}
+/* Start banner*/
+
+.banner{
+    display: flex;
+    background-color:#4FBFA5 ;
+    width: 1920px;
+    height: 700px;
+    margin: 0 auto;
+
+}
+.banner_list{
+    display: flex;
+    margin-left: 373px;
+    color: white;
+}
+.banner_list_1{
+    margin-left: 65px;
+    margin-top: 30px;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.button_banner{
+    margin-top: 30px;
+    margin-left: 95px;
+}
+.banner_img{
+
+}
+.box_title{
+    width: 416px;
+    height: 266px;
+    margin-top: 16.3px;
+    margin-right: 1192px;
+    background: black;
+
+
+}
+.title{
+    align-items: center;
+    width: 316px;
+    height: 72px;
+    font-size: 48px;
+    color: white;
+}
+.subtitle{
+    width: 416px;
+    height: 84px;
+    font-size: 14px;
+    color: white;
+}
+/* End banner*/
+
+/* Start Informations*/
+
+/* Start Inovations*/
+.information{
+    display: flex;
+    width: 526px;
+    height: 580px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.inovations{
+    width: 526px;
+    height: 580px;
+    background-color: #00868A;
+
+}
+.title_inovations{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 40px;
+    color: white;
+
+
+}
+.name_inovation{
+    font-size: 18px;
+    margin-top: 44px;
+    margin-left: 55px; color: white;
+    background-color: #4FBFA5;
+    padding: 9px 15px 10px;
+    width: 125px;
+    height: 40px;
+
+
+}
+.help_button_text{
+    font-size: 16px;
+    margin-top: 33px;
+    margin-left: 110px;  /*при добавлении кнопки поменять на значение 20 px*/
+    color: white;
+}
+.button_helper{
+
+
+}
+
+.image_inovations{
+
+}
+/* End Inovations*/
+/* Start estetika*/
+.estetika{
+    width: 636px;
+    height: 485px;
+   margin-left: 134px;
+}
+.name_estetika{
+    font-size: 18px;
+    width: 186px;
+    height: 40px;
+    padding: 9px 15px 10px;
+    background: #4FBFA5;
+    color: white;
+}
+
+
+.estetika_line_1{
+    display: flex;
+}
+
+.estetika_number_1 {
+    color: #000000;
+    width: 50px;
+    height: 72px;
+    font-size: 48px;
+    margin-top: 30px;
+}
+.estetika_text_1{
+    width: 144px;
+    height: 42px;
+    font-size: 14px;
+    margin-top: 45px;
+    margin-left: 20px;
+}
+
+.estetika_line_2{
+    display: flex;
+}
+.estetika_number_2 {
+    color: #000000;
+    width: 50px;
+    height: 72px;
+    font-size: 48px;
+    margin-top: 15px;
+}
+.estetika_text_2{
+    width: 144px;
+    height: 42px;
+    font-size: 14px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.estetika_line_3{
+    display: flex;
+}
+.estetika_number_3{
+    width: 111px;
+    height: 144px;
+    font-size: 96px;
+    color: #00868A;
+    margin-top: 20px;
+}
+.estetika_text_3{
+    width: 319px;
+    height: 84px;
+    font-size: 28px;
+    margin-top: 50px;
+
+}
+
+.estetika_line_4{
+    display: flex;
+}
+.estetika_number_4{
+    width: 50px;
+    height: 72px;
+    font-size: 48px;
+}
+
+.estetika_text_4{
+    width: 144px;
+    height: 42px;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+/* End estetika*/
+
+/* End Informations*/
+
+
